@@ -1,0 +1,28 @@
+.product-card{
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    border: 1px solid black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-color: #fff;
+  
+}
+
+.product-card-image{
+    height: 150px;
+    display: block;
+    margin: 10px auto;
+}
+.buynow{
+    background-color: rgb(9, 9, 85);
+    color: #fff;
+    display: block;
+    margin: 10px auto;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+    width: 150px;
+}
